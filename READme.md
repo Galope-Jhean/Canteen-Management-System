@@ -132,4 +132,4 @@ the current stock that the product had.
 
 ---
 
-##THANK YOU!
+## **THANK YOU!**
