@@ -120,4 +120,16 @@ the current stock that the product had.
 - Mark Ryan Odrunia
         
 ---
-<h1 style = "text-align: center" >THANK YOU!
+
+**Download Instructions**
+
+1. Click the green code button
+1. Under that select download zip file
+1. Go to your downloads folder
+1. Extract the file 
+1. Locate the extracted files
+1. Run the .exe file
+
+---
+
+THANK YOU!
