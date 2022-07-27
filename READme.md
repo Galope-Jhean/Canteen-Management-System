@@ -128,7 +128,7 @@ the current stock that the product had.
 1. Go to your downloads folder
 1. Extract the file 
 1. Locate the extracted files
-1. Run the .exe file
+1. Run the Release-CMSystem.exe file
 
 ---
 
