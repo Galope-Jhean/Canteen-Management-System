@@ -523,7 +523,7 @@ int inventorySystem(offers todaysMeals[10], offers todaysDrinks[10], offers toda
             {
                 int count = 0;
                 cout << "\t\t\t\t\t How many types of extras are we going to add?";
-                mealCount = intChoice(mealCount);
+                count = intChoice(mealCount);
                 int addIndex = *extraNumber + count;
                 *extraNumber = addtoMenu(todaysExtras, addIndex, *extraNumber);
                 cout << "\n\n\t\t\t\t\t\t Successfully Added";
