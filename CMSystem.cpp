@@ -842,7 +842,7 @@ int main()
                             cout << left << setw(5) << "\t\t\t\t  ===================================================\n\n";
                             _getch();
                         }
-                        else if (yoyoy = 2)
+                        else if (yoyoy == 2)
                         {
                             throw "Order Cancelled\n";
                         }
